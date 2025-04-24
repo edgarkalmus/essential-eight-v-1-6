@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/essential-eight-v-1-6/static/css/main.d61aa2d4.css",
+    "main.js": "/essential-eight-v-1-6/static/js/main.eb080996.js",
+    "static/js/239.f9135672.chunk.js": "/essential-eight-v-1-6/static/js/239.f9135672.chunk.js",
+    "static/js/213.828a8799.chunk.js": "/essential-eight-v-1-6/static/js/213.828a8799.chunk.js",
+    "static/js/732.b9dd36f3.chunk.js": "/essential-eight-v-1-6/static/js/732.b9dd36f3.chunk.js",
+    "index.html": "/essential-eight-v-1-6/index.html",
+    "main.d61aa2d4.css.map": "/essential-eight-v-1-6/static/css/main.d61aa2d4.css.map",
+    "main.eb080996.js.map": "/essential-eight-v-1-6/static/js/main.eb080996.js.map",
+    "239.f9135672.chunk.js.map": "/essential-eight-v-1-6/static/js/239.f9135672.chunk.js.map",
+    "213.828a8799.chunk.js.map": "/essential-eight-v-1-6/static/js/213.828a8799.chunk.js.map",
+    "732.b9dd36f3.chunk.js.map": "/essential-eight-v-1-6/static/js/732.b9dd36f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d61aa2d4.css",
+    "static/js/main.eb080996.js"
+  ]
+}
